@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Desenvolvendo Portifolio**
 
-- 🌱 I’m currently learning **Desenvolvimento Web**
+- 🌱 I’m currently learning **Desenvolvimento, analise de dados e banco de dados**
 
 - 🤝 I’m looking for help with **Desenvolver minhas habilidades em programação**
 

@@ -27,6 +27,9 @@
 
 ###
 
+
+###
+
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
@@ -55,6 +58,18 @@
 </div>
 
 ###
+
+<p>
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats.vercel.app/api?username=Lumendes10&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+  />
+
+
+
           
           
           

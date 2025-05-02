@@ -27,9 +27,6 @@
 
 ###
 
-
-###
-
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
@@ -66,7 +63,15 @@
     height="200" 
     style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=Lumendes10&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
+  /> 
+
+  
+  ###
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=lumendes10&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false&order=2" height="200" alt="languages graph"  />
+</div>
+
+###
 
 
 

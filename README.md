@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Lucas Mendes</h1>
-<h3 align="center">Apaixonado por programação e banco de dados from Brasil</h3>
+<h3 align="center">Apaixonado por programação, Analise de Dados e Banco de Dados from Brasil</h3>
 
 - 🔭 I’m currently working on **Desenvolvendo Portifolio**
 
